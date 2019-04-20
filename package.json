@@ -7,8 +7,8 @@
 	"layout": "blog",
 	"css": "styles.css",
 	"authorView": false,
+	"output":"../corgBuildFile/"
     },
-    "build":"../corgBuild/",
     "dependencies": {
 	"acorn": "^6.1.1",
 	"d3": "^4.0.0",
